@@ -1,1 +1,54 @@
-# Insti_Collab
+# InstiCollab
+
+InstiCollab is a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. It is a collaborative task management application designed to help users organize and manage their tasks efficiently. It features user authentication, group chatting , task creation, and categorization of tasks based on their importance and completion status. 
+
+## Features
+
+- User authentication (signup and login)
+- Create, update, and delete tasks
+- Can mention important tasks with the heart
+- Mark tasks as completed or incomplete
+- View tasks by different categories (All, Important, Completed, Incompleted)
+- Group chat functionality (in development)
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Abijith27UK/Insti_Collab.git
+   cd Insti_Collab
+   ```
+
+2. Install backend dependencies:
+   ```
+   cd backend
+   npm install
+   ```
+
+3. Install frontend dependencies:
+   ```
+   cd ../frontend
+   npm install
+   ```
+
+4. Create a `.env` file in the backend directory and add your MongoDB connection string:
+   ```
+   MONGO_URI=your_mongodb_connection_string
+   ```
+
+### Running the Application
+
+1. Start the backend server:
+   ```
+   cd backend
+   npm start
+   ```
+
+2. In a new terminal, start the frontend development server:
+   ```
+   cd frontend
+   npm start
+   ```
+
+3. Open your browser and navigate to `http://localhost:3000` to use the application.
+
