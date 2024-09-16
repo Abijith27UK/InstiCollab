@@ -1,7 +1,8 @@
 # InstiCollab
 
 InstiCollab is a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. It is a collaborative task management application designed to help users organize and manage their tasks efficiently. It features user authentication, group chatting , task creation, and categorization of tasks based on their importance and completion status. 
-**For login, use the following credentials:**
+
+### **For login, use the following credentials:**
 **Username: DhetUK
 Password: abcdefg
 We have preloaded some dummy tasks. If you sign up with a new account, you'll need to manually add tasks from the beginning.**
