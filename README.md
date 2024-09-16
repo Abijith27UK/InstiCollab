@@ -60,8 +60,8 @@ InstiCollab is a seamless, integrated platform designed to enhance productivity 
 
 ### Tech stacks used
 1. Frontend:
-- React.js (v18.3.1)
-- React Router (v6.26.2) for navigation
+- React.js
+- React Router for navigation
 - Redux Toolkit for state management
 - Axios for HTTP requests
 - Tailwind CSS for styling
@@ -69,9 +69,9 @@ InstiCollab is a seamless, integrated platform designed to enhance productivity 
 
 2. Backend:
 - Node.js
-- Express.js (v4.21.0) as the web framework
+- Express.js as the web framework
 - MongoDB as the database
-- Mongoose (v8.6.2) for object modeling
+- Mongoose for object modeling
 - JSON Web Tokens (jsonwebtoken) for authentication
 - bcrypt.js for password hashing
 - dotenv for environment variable management
