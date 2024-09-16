@@ -76,3 +76,6 @@ InstiCollab is a seamless, integrated platform designed to enhance productivity 
 - bcrypt.js for password hashing
 - dotenv for environment variable management
 - cors for handling Cross-Origin Resource Sharing
+
+### Team contribution
+Abijith U K NA23B002 did both the frontend and backend for this project
