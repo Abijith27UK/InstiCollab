@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InstiCollab/static/css/main.4160b436.css",
+    "main.js": "/InstiCollab/static/js/main.4310967d.js",
+    "static/js/453.8ab44547.chunk.js": "/InstiCollab/static/js/453.8ab44547.chunk.js",
+    "index.html": "/InstiCollab/index.html",
+    "main.4160b436.css.map": "/InstiCollab/static/css/main.4160b436.css.map",
+    "main.4310967d.js.map": "/InstiCollab/static/js/main.4310967d.js.map",
+    "453.8ab44547.chunk.js.map": "/InstiCollab/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4160b436.css",
+    "static/js/main.4310967d.js"
+  ]
+}
